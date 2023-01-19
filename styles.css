@@ -1,0 +1,33 @@
+* {
+font-family: Helvetica, Arial, Verdana;
+background: yellow;    
+}
+
+h1 {
+font-weight: bold;
+color: red;
+background-color:wheat;
+text-align: center;
+font-style: italic;
+}
+
+.links {
+font-size: 20px;
+color: black;
+text-decoration-line: none;
+font-weight: bold;
+
+}
+
+.links:hover {
+color:red;
+font-size: 22px;
+}
+
+ul {
+text-align: center;
+list-style-type: none;
+
+}
+
+
